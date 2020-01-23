@@ -6,7 +6,7 @@ CREATE DATABASE sakilav1;
 
 USE sakilav1;
 
-/* Creates the FILM table. For information on data types, see http://dev.mysql.com/doc/refman/5.6/en/data-types.html */
+/* Creates the FILM table. For information on data types */
 
 CREATE TABLE film (
   film_id INT,
